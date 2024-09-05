@@ -64,7 +64,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li>
-        <a href="https://github.com/yourusername/Probability-and-Statistics"> 
+        <a href="https://github.com/BiancaM30/Probability-and-Statistics"> 
           :bar_chart: Probability and Statistics
         </a>
       </li>
