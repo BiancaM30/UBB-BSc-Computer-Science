@@ -44,8 +44,8 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
   <li>:open_file_folder: Semester 3
     <ul>
       <li>
-        <a href="https://github.com/yourusername/Advanced-Methods-of-Programming"> 
-          :brain: Advanced Methods of Programming 
+        <a href="https://github.com/BiancaM30/Advanced-Programming-Methods"> 
+          :brain: Advanced Programming Methods 
         </a>
       </li>
       <li>
