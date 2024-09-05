@@ -30,8 +30,13 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li>
-        <a href="https://github.com/yourusername/Object-Oriented-Programming"> 
+        <a href="https://github.com/BiancaM30/Object-Oriented-Programming"> 
           :gear: Object Oriented Programming 
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/BiancaM30/Dynamical-Systems"> 
+          :1234: Dynamical Systems
         </a>
       </li>
     </ul>
