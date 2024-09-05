@@ -16,7 +16,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li> -->
       <li>
-        <a href="https://github.com/yourusername/Fundamentals-of-Programming"> 
+        <a href="https://github.com/BiancaM30/Programming-Fundamentals"> 
           :snake: Fundamentals of Programming 
         </a>
       </li>
