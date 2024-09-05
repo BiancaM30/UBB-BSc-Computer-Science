@@ -25,7 +25,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
   <li>:open_file_folder: Semester 2
     <ul>
       <li>
-        <a href="https://github.com/yourusername/Data-Structures-and-Algorithms"> 
+        <a href="https://github.com/BiancaM30/Data-Structures-and-Algorithms"> 
           :file_cabinet: Data Structures and Algorithms 
         </a>
       </li>
