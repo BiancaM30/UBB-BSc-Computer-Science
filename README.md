@@ -6,7 +6,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
   <li>:open_file_folder: Semester 1
     <ul>
       <li>
-        <a href="https://github.com/yourusername/Algebra"> 
+        <a href="https://github.com/BiancaM30/Computer-System-Architecture"> 
           :1234: Computer System Architecture
         </a>
       </li>
