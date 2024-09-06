@@ -73,7 +73,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
   <li>:open_file_folder: Semester 4
     <ul>
       <li>
-        <a href="https://github.com/yourusername/Database-Management-Systems">
+        <a href="https://github.com/BiancaM30/Database-Management-Systems">
           :floppy_disk: Database Management Systems
         </a>
       </li>
