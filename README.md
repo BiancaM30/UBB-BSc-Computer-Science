@@ -59,8 +59,8 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li>
-        <a href="https://github.com/yourusername/Functional-and-Logic-Programming"> 
-          :nerd_face: Functional and Logic Programming 
+        <a href="https://github.com/BiancaM30/Logic-and-Functional-Programming "> 
+          :nerd_face: Logic and Functional Programming 
         </a>
       </li>
       <li>
