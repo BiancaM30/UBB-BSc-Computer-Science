@@ -93,7 +93,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li>
-        <a href="https://github.com/yourusername/Software-Engineering">
+        <a href="https://github.com/BiancaM30/Software-Engineering">
           :factory: Software Engineering
         </a>
       </li>
