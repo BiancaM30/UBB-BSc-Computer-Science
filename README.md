@@ -54,7 +54,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li>
-        <a href="https://github.com/yourusername/Databases"> 
+        <a href="https://github.com/BiancaM30/Databases"> 
           :floppy_disk: Databases 
         </a>
       </li>
