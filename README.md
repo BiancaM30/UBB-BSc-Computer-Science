@@ -49,7 +49,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li>
-        <a href="https://github.com/yourusername/Computer-Networks"> 
+        <a href="https://github.com/BiancaM30/Computer-Networks"> 
           :computer: Computer Networks 
         </a>
       </li>
