@@ -78,7 +78,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li>
-        <a href="https://github.com/yourusername/Web-Programming">
+        <a href="https://github.com/BiancaM30/Web-Programming">
           :globe_with_meridians: Web Programming
         </a>
       </li>
