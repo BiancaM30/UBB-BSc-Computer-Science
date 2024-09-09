@@ -88,7 +88,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li>
-        <a href="https://github.com/yourusername/Artificial-Intelligence">
+        <a href="https://github.com/BiancaM30/Artificial-Intelligence">
           :robot: Artificial Intelligence
         </a>
       </li>
