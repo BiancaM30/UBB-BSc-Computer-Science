@@ -111,11 +111,11 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
           Formal Languages and Compiler Design
         </a>
       </li>
-      <li> :thinking:
+<!--       <li> :thinking:
         <a href="https://github.com/yourusername/Intelligent-Methods">
           Intelligent Methods for Solving Real-World Problems
         </a>
-      </li>
+      </li> -->
       <li> :iphone:
         <a href="https://github.com/yourusername/Mobile-Application-Programming">
           Mobile Application Programming
