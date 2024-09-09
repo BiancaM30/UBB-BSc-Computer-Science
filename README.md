@@ -107,7 +107,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li> -->
       <li> :books:
-        <a href="https://github.com/yourusername/Formal-Languages-and-Compiler-Design">
+        <a href="https://github.com/BiancaM30/Formal-Languages-and-Compiler-Design">
           Formal Languages and Compiler Design
         </a>
       </li>
