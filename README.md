@@ -83,7 +83,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li>
-        <a href="https://github.com/yourusername/Systems-for-Design-and-Implementation">
+        <a href="https://github.com/BiancaM30/Systems-for-Design-and-Implementation">
           :wrench: Systems for Design and Implementation
         </a>
       </li>
