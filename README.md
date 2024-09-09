@@ -122,7 +122,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li> :twisted_rightwards_arrows:
-        <a href="https://github.com/yourusername/Parallel-and-Distributed-Programming">
+        <a href="https://github.com/BiancaM30/Parallel-and-Distributed-Programming">
           Parallel and Distributed Programming
         </a>
       </li>
