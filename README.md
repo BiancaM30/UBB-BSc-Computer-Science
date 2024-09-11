@@ -146,7 +146,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li> :abacus:
-        <a href="https://github.com/yourusername/Numerical-Calculus">
+        <a href="https://github.com/BiancaM30/Numerical-Calculus">
           Numerical Calculus
         </a>
       </li>
