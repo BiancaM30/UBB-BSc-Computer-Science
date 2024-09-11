@@ -140,21 +140,21 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
           Game Development
         </a>
       </li>
-      <li> :scroll:
+<!--       <li> :scroll:
         <a href="https://github.com/yourusername/History-of-Computer-Science">
           History of Computer Science
         </a>
-      </li>
+      </li> -->
       <li> :abacus:
         <a href="https://github.com/BiancaM30/Numerical-Calculus">
           Numerical Calculus
         </a>
       </li>
-      <li> :mortar_board:
+<!--       <li> :mortar_board:
         <a href="https://github.com/yourusername/Preparation-of-Bachelor-Thesis">
           Preparation of Bachelor Thesis
         </a>
-      </li>
+      </li> -->
       <li> :white_check_mark:
         <a href="https://github.com/BiancaM30/Software-Systems-Verification-and-Validation">
           Software Systems Verification and Validation
