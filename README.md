@@ -116,11 +116,11 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
           Intelligent Methods for Solving Real-World Problems
         </a>
       </li> -->
-      <li> :iphone:
+<!--       <li> :iphone:
         <a href="https://github.com/yourusername/Mobile-Application-Programming">
           Mobile Application Programming
         </a>
-      </li>
+      </li> -->
       <li> :twisted_rightwards_arrows:
         <a href="https://github.com/BiancaM30/Parallel-and-Distributed-Programming">
           Parallel and Distributed Programming
