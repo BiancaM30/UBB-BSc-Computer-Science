@@ -156,7 +156,7 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
         </a>
       </li>
       <li> :white_check_mark:
-        <a href="https://github.com/yourusername/Software-Systems-Verification-and-Validation">
+        <a href="https://github.com/BiancaM30/Software-Systems-Verification-and-Validation">
           Software Systems Verification and Validation
         </a>
       </li>
