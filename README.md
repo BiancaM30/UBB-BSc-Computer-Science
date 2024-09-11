@@ -135,9 +135,9 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
           Android Things
         </a>
       </li> -->
-      <li> :triangular_ruler:
-        <a href="https://github.com/yourusername/Design-Patterns">
-          Design Patterns
+      <li> :iphone:
+        <a href="https://github.com/BiancaM30/Game-Development">
+          Game Development
         </a>
       </li>
       <li> :scroll:
