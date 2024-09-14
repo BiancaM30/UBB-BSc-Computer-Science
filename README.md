@@ -150,14 +150,14 @@ Welcome to my repository of projects from my Bachelor's studies in Computer Scie
           Numerical Calculus
         </a>
       </li>
-<!--       <li> :mortar_board:
-        <a href="https://github.com/yourusername/Preparation-of-Bachelor-Thesis">
-          Preparation of Bachelor Thesis
-        </a>
-      </li> -->
       <li> :white_check_mark:
         <a href="https://github.com/BiancaM30/Software-Systems-Verification-and-Validation">
           Software Systems Verification and Validation
+        </a>
+      </li>
+      <li> :mortar_board:
+        <a href="https://github.com/BiancaM30/BreastScanAI">
+          Bachelor Thesis App
         </a>
       </li>
     </ul>
